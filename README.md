@@ -7,7 +7,7 @@ This is an express project that should be run in the comand line using the files
 ## ScreenShot
 The following image shows the web application's appearance:
 
-![This note taker application takes in input from a user and saves the notes to a json file. The information the user puts in is then rendered back to the user on the page for the user to click through.](/public/assets/ScreenShot1.png)![](/public/assets/ScreenShot1.png)
+![This note taker application takes in input from a user and saves the notes to a json file. The information the user puts in is then rendered back to the user on the page for the user to click through.](/public/assets/ScreenShot1.png)![](/public/assets/ScreenShot2.png)
 
 ## Link
 This [link](https://challenge11-notetakerapp.herokuapp.com/) will take you to the deployed application.
