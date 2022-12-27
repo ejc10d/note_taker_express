@@ -1,7 +1,7 @@
 const router = require('express').Router();
 const generateUniqueId = require('generate-unique-id');
 const { notes } = require('../db/db.json');
-const { makeNewNote } = require('../db/notes')
+const { makeNewNote } = require('../lib/notesFunction')
 
 router.get('/notes', (req, res) => {
     let results = notes;
