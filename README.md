@@ -2,12 +2,12 @@
 
 ## Description
 
-This is an express project that should be run in the comand line using the files associated with this whole project.    
+This is an express project that should be run in the comand line using the files associated with this whole project. Be sure to do an npm install before doing an npm start on your local device if you'd like to run this in the command line of your device.    
 
 ## ScreenShot
 The following image shows the web application's appearance:
 
-![This password generator takes the user through a series of prompts to get the password length requirements along with the password options. A random password is generated and returned to the user.](/assets/ScreenShot.jpg)
+![This note taker application takes in input from a user and saves the notes to a json file. The information the user puts in is then rendered back to the user on the page for the user to click through.](/public/assets/ScreenShot1.png)![](/public/assets/ScreenShot1.png)
 
 ## Link
-This [link](https://ejc10d.github.io/challenge_3/) will take you to the deployed application.
+This [link](https://challenge11-notetakerapp.herokuapp.com/) will take you to the deployed application.
